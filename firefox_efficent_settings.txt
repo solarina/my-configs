@@ -1,0 +1,10 @@
+ gfx.webrender.all = true , media.hardware-video-decoding.force-enabled=true, media.ffmpeg.vaapi.enabled = true and add these lists to my filters on ublock:
+ https://divested.dev/hosts-domains-wildcards
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://divested.dev/blocklists/Fingerprinting.ubl
+and use enhanced-h264ify https://addons.mozilla.org/en-US/firefox/addon/enhanced-h264ify/
+and only allow h264 cuz rest eat up alot of cpu when watching youtube
+
+also for discord telemetry prob this will help, add this to ublock my filters list aswell:
+https://discord.com/api/v*/science
+https://discord.com/api/v*/channels/*/typing

@@ -1,0 +1,27 @@
+So for pirating as starters i use 1337x.to because its popular, only get Games from FitGirl, DODI, KaOsKrew, 0xEMPRESS, and johncena141 (who uploads Linux Games).
+
+(No Denuvo)
+
+1. search jc141 (the game you want to get)
+2. If they have uploaded the game you want to play then just torrent it
+3. After downloading, follow the shit for your distro https://gitlab.com/jc141x/setup
+4. Now run the start.e-w.sh
+5. Ignore that it makes the wine and wineprefix we don't care about that and even if it fails it's not gonna be a problem
+6. In that exact folder, go to files and in game root you should see the .exe of the game
+7. Open steam and add it as a non steam game and then right click, properties and force a compatibility layer proton experimental
+8. Done you good
+
+(Denuvo Games)
+
+1. go to https://1337x.to/user/0xEMPRESS/ (she cracks games and removes denuvo and other bullshit)
+2. If your game is there, torrent it
+3. Once done, you should have a .iso, you need to burn it or mount it
+4. After that you'll have a setup.exe on that device you have burnt. You'll need to run it, i ran it through bottles
+5. Then in the directory you specified, if its C disk on bottles you just go to /home/richman/.var/app/com.usebottles.bottles/data/bottles/bottles/nameofbottle/drive_c and you just drag the game folder to another directory
+6. You'll need lutris to run this game (reason for why no steam is because steam detects DRM in their game database so it will just say no licenses)
+7. Click + and then locally installed game, select runner to be wine (runs windows games) and then in game options point the executable, folder of the game and for wine prefix just make a brand new folder anywhere and just point it to that
+8. Click on the game, configure, runner options and select lutris-ge-proton (this has been the only one that works because every single proton crashes cuz it connects to steam api automatically)
+9. then click on the wine options and go to wine configurations, and change windows vista to windows 10
+10. Click play and wait some time and you should have your game running
+
+(Also never disable lutris runtime because thats what makes it work i think it blocks the steam runtime and rather runs it in lutris runtime which is way better and also emulates controllers still)

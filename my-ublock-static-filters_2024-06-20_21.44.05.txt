@@ -1,0 +1,13 @@
+https://divested.dev/hosts-domains-wildcards
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://divested.dev/blocklists/Fingerprinting.ubl
+https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/hoster.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
+https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw/7290e0681bcd07415420b5c80a253652fd13f840/MS-1
+https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/badblock_plus.txt
+
+https://discord.com/api/v*/science
+https://discord.com/api/v*/channels/*/typing
